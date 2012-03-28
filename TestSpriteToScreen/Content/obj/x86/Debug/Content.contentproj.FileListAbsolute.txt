@@ -1,0 +1,6 @@
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\TestSpriteToScreen\TestSpriteToScreen\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\TestSpriteToScreen\TestSpriteToScreen\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lab-user\Desktop\TestSpriteToScreen\TestSpriteToScreen\TestSpriteToScreen\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\TestSpriteToScreen\TestSpriteToScreen\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\TestSpriteToScreen\TestSpriteToScreen\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\BackGroundDrawing\TestSpriteToScreen\Content\obj\x86\Debug\ResolveAssemblyReference.cache

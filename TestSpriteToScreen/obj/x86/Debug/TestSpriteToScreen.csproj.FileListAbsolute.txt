@@ -1,0 +1,42 @@
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\TestSpriteToScreen\TestSpriteToScreen\bin\x86\Debug\Content\Sprites\flockcitysign.xnb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\TestSpriteToScreen\TestSpriteToScreen\bin\x86\Debug\TestSpriteToScreen.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\TestSpriteToScreen\TestSpriteToScreen\bin\x86\Debug\TestSpriteToScreen.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\TestSpriteToScreen.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\TestSpriteToScreen.pdb
+C:\Users\Michael\Desktop\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\TestSpriteToScreen.exe
+C:\Users\Michael\Desktop\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\TestSpriteToScreen.pdb
+C:\Users\Michael\Desktop\TestSpriteToScreen\TestSpriteToScreen\bin\x86\Debug\TestSpriteToScreen.exe
+C:\Users\Michael\Desktop\TestSpriteToScreen\TestSpriteToScreen\bin\x86\Debug\TestSpriteToScreen.pdb
+C:\Users\Michael\Desktop\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Michael\Desktop\TestSpriteToScreen\TestSpriteToScreen\bin\x86\Debug\Content\Images\Ryu.xnb
+C:\Users\lab-user\Desktop\TestSpriteToScreen\TestSpriteToScreen\TestSpriteToScreen\bin\x86\Debug\Content\Images\Ryu.xnb
+C:\Users\lab-user\Desktop\TestSpriteToScreen\TestSpriteToScreen\TestSpriteToScreen\bin\x86\Debug\TestSpriteToScreen.exe
+C:\Users\lab-user\Desktop\TestSpriteToScreen\TestSpriteToScreen\TestSpriteToScreen\bin\x86\Debug\TestSpriteToScreen.pdb
+C:\Users\lab-user\Desktop\TestSpriteToScreen\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lab-user\Desktop\TestSpriteToScreen\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\lab-user\Desktop\TestSpriteToScreen\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\TestSpriteToScreen.exe
+C:\Users\lab-user\Desktop\TestSpriteToScreen\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\TestSpriteToScreen.pdb
+F:\TestSpriteToScreen\TestSpriteToScreen\bin\x86\Debug\Content\Images\Ryu.xnb
+F:\TestSpriteToScreen\TestSpriteToScreen\bin\x86\Debug\TestSpriteToScreen.exe
+F:\TestSpriteToScreen\TestSpriteToScreen\bin\x86\Debug\TestSpriteToScreen.pdb
+F:\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\TestSpriteToScreen.exe
+F:\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\TestSpriteToScreen.pdb
+I:\TestSpriteToScreen\TestSpriteToScreen\bin\x86\Debug\Content\Images\Ryu.xnb
+I:\TestSpriteToScreen\TestSpriteToScreen\bin\x86\Debug\TestSpriteToScreen.exe
+I:\TestSpriteToScreen\TestSpriteToScreen\bin\x86\Debug\TestSpriteToScreen.pdb
+I:\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\TestSpriteToScreen.exe
+I:\TestSpriteToScreen\TestSpriteToScreen\obj\x86\Debug\TestSpriteToScreen.pdb
+C:\Users\Daniel\Desktop\BackGroundDrawing\TestSpriteToScreen\bin\x86\Debug\Content\Images\Ryu.xnb
+C:\Users\Daniel\Desktop\BackGroundDrawing\TestSpriteToScreen\bin\x86\Debug\TestSpriteToScreen.exe
+C:\Users\Daniel\Desktop\BackGroundDrawing\TestSpriteToScreen\bin\x86\Debug\TestSpriteToScreen.pdb
+C:\Users\Daniel\Desktop\BackGroundDrawing\TestSpriteToScreen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\BackGroundDrawing\TestSpriteToScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Daniel\Desktop\BackGroundDrawing\TestSpriteToScreen\obj\x86\Debug\TestSpriteToScreen.exe
+C:\Users\Daniel\Desktop\BackGroundDrawing\TestSpriteToScreen\obj\x86\Debug\TestSpriteToScreen.pdb

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSpriteToScreen", "TestSpriteToScreen\TestSpriteToScreen.csproj", "{9D97934F-6102-47C7-85F3-99AA1A89715C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D97934F-6102-47C7-85F3-99AA1A89715C}.Debug|x86.ActiveCfg = Debug|x86
+		{9D97934F-6102-47C7-85F3-99AA1A89715C}.Debug|x86.Build.0 = Debug|x86
+		{9D97934F-6102-47C7-85F3-99AA1A89715C}.Release|x86.ActiveCfg = Release|x86
+		{9D97934F-6102-47C7-85F3-99AA1A89715C}.Release|x86.Build.0 = Release|x86
+		{34190DD6-5488-4CDF-AE08-71162B9D87B8}.Debug|x86.ActiveCfg = Debug|x86
+		{34190DD6-5488-4CDF-AE08-71162B9D87B8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
